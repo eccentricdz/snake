@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	padding: 0px;
+	margin: 0px;
+	overflow: hidden;
+}
+
+#mycanvas
+{
+	background: #211F1F;
+	padding: 0px;
+	margin: 0px;
+}
+#score
+{
+	font-family: Helvetica, sans-serif;
+	position: fixed;
+	pointer-events : none;
+	color: #ae4232;
+	left: 30px;
+	bottom: 20px;
+	font-size: 1.6em;
+}
